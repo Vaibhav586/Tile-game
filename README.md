@@ -55,7 +55,3 @@ When the game ends, a "Game Over" screen will appear, showing your final score. 
 
 ## License
 This project is open source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to modify the sections or details based on your project's requirements!
